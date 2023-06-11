@@ -1,10 +1,6 @@
----
-title: "bird list"
-output: html_document
----
-
 # 鳥名データベースの構築について
 
+[詳しくはこちらをご覧ください](https://www.torir.net/1.1.9-bird_list.html)
 ## 目的
 
 - <span class="logo">toriR</span>で用いられる鳥名のマスターデータベース(MDB_species)の具体的構築方法と運用方法について検討した．
