@@ -12,4 +12,4 @@ toriRで用いられる日本の野鳥の標準和名と学名のデータベー
 |MDB_species_jp|toriRで用いられる標準和名と学名の対応|
 |MDB_species_en|toriRで用いられる英名と学名の対応|
 |keylist|toriR -> annotationの初期値|
-|DB_birdlist|テンポラリなデータベース|
+|DB_birdlist|annotationのキーリスト用でvoice登録用のデータベース|
